@@ -2,6 +2,10 @@
 
 ## Instalacja (Windows)
 
+**W razie jakichkolwiek problemów z instalajcą proszę o otworzenie [_Issue_](https://github.com/RouNNdeL/korona-science/issues/new) w tym repozytorium
+i opisanie (najlepiej z obrazkami) problemu, postaramy się jak najszybciej pomóc, żeby każdy mógł wziąć udział 
+w zajęciach.**
+
 Rozpoczynamy od pobrania Pythona z [oficjalnej strony](https://www.python.org/downloads/).
 
 ![](images/python_download.png)
