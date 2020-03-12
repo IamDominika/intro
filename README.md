@@ -28,7 +28,8 @@ Następnie uruchamiamy wiersz polecenia (`cmd`), wyszukując go w Menu Start.
 ![](images/cmd.png)
 
 Jeśli instalacje przeprowadziliśmy z uprawnieniami Administratora należy uruchomić wiersz polecenia jako Administrator. 
-Możemy teraz zweryfikować czy instalacja przebiegła pomyślnie. Wszystkie polecenia wpisywane do konsoli zatwierdzamy Enterem.
+ Wszystkie polecenia wpisywane do konsoli zatwierdzamy Enterem.
+Możemy teraz zweryfikować czy instalacja przebiegła pomyślnie.
 
 Wpisujemy `python --version` a następnie `pip3 --version`. 
 
